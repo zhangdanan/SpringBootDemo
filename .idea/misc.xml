@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-hasor/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-common/pom.xml" />
       </list>
     </option>
   </component>
