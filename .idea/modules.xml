@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootDemo.iml" filepath="$PROJECT_DIR$/SpringBootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" filepath="$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hasor/springboot-hasor.iml" filepath="$PROJECT_DIR$/springboot-hasor/springboot-hasor.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-common/springboot-mybatis-common.iml" filepath="$PROJECT_DIR$/springboot-mybatis-common/springboot-mybatis-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatispuls/springboot-mybatispuls.iml" filepath="$PROJECT_DIR$/springboot-mybatispuls/springboot-mybatispuls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
     </modules>
   </component>
 </project>

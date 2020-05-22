@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-mybatis-annotation" />
-        <module name="springboot-mybatis" />
-        <module name="springboot-mybatis-common" />
         <module name="springboot-hasor" />
         <module name="springboot-datajpa" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-common" />
+        <module name="springboot-mybatispuls" />
+        <module name="springboot-redis" />
+        <module name="springboot-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +22,8 @@
       <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-common" target="1.8" />
+      <module name="springboot-mybatispuls" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,6 +33,8 @@
       <module name="springboot-mybatis" options="-parameters" />
       <module name="springboot-mybatis-annotation" options="-parameters" />
       <module name="springboot-mybatis-common" options="-parameters" />
+      <module name="springboot-mybatispuls" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
     </option>
   </component>
 </project>
