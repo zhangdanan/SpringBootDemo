@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @Authorz; sloth
@@ -8,5 +8,7 @@ import java.util.HashMap;
  * @Modificd By;
  */
 public class Test {
+
+    ConcurrentHashMap
 
 }

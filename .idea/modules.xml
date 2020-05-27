@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-common/springboot-mybatis-common.iml" filepath="$PROJECT_DIR$/springboot-mybatis-common/springboot-mybatis-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatispuls/springboot-mybatispuls.iml" filepath="$PROJECT_DIR$/springboot-mybatispuls/springboot-mybatispuls.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
     </modules>
   </component>
 </project>
